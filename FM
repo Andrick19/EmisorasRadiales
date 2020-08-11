@@ -10,9 +10,7 @@ public class FM {
     public void setMHz(int MHz) {
         this.MHz = MHz;
     }
-    
-    
-    
+  
     public float up(){
         MHz+=0.5;
         return MHz;
